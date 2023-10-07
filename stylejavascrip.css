@@ -1,0 +1,26 @@
+
+body
+{
+    background-color: rgb(165, 224, 224);
+}
+.main
+{
+  text-align: center;
+  margin-top: 15%;
+}
+span
+{
+    font-size: 50px;
+}
+.increment
+{
+    font-size: 22px;
+}
+.rest
+{
+    font-size: 22px;
+}
+.deg
+{
+    font-size: 22px;
+}
